@@ -1,3 +1,3 @@
-module github.com/goodsign/monday
+module github.com/getevo/monday
 
 go 1.13
