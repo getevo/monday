@@ -1,3 +1,3 @@
-module github.com/getevo/monday/v1
+module github.com/getevo/monday
 
 go 1.13
