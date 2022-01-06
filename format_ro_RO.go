@@ -5,13 +5,13 @@ package monday
 // ============================================================
 
 var longDayNamesRoRO = map[string]string{
-	"Sunday":    "duminică",
-	"Monday":    "luni",
-	"Tuesday":   "marți",
-	"Wednesday": "miercuri",
-	"Thursday":  "joi",
-	"Friday":    "vineri",
-	"Saturday":  "sâmbătă",
+	"Sunday":    "Duminică",
+	"Monday":    "Luni",
+	"Tuesday":   "Marți",
+	"Wednesday": "Miercuri",
+	"Thursday":  "Joi",
+	"Friday":    "Vineri",
+	"Saturday":  "Sâmbătă",
 }
 
 var shortDayNamesRoRO = map[string]string{
@@ -25,31 +25,31 @@ var shortDayNamesRoRO = map[string]string{
 }
 
 var longMonthNamesRoRO = map[string]string{
-	"January":   "ianuarie",
-	"February":  "februarie",
-	"March":     "martie",
-	"April":     "aprilie",
-	"May":       "mai",
-	"June":      "iunie",
-	"July":      "iulie",
-	"August":    "august",
-	"September": "septembrie",
-	"October":   "octombrie",
-	"November":  "noiembrie",
-	"December":  "decembrie",
+	"January":   "Ianuarie",
+	"February":  "Februarie",
+	"March":     "Martie",
+	"April":     "Aprilie",
+	"May":       "Mai",
+	"June":      "Iunie",
+	"July":      "Iulie",
+	"August":    "August",
+	"September": "Septembrie",
+	"October":   "Octombrie",
+	"November":  "Noiembrie",
+	"December":  "Decembrie",
 }
 
 var shortMonthNamesRoRO = map[string]string{
-	"Jan": "ian",
-	"Feb": "feb",
-	"Mar": "mar",
-	"Apr": "apr",
-	"May": "mai",
-	"Jun": "iun",
-	"Jul": "iul",
-	"Aug": "aug",
-	"Sep": "sept",
-	"Oct": "oct",
-	"Nov": "nov",
-	"Dec": "dec",
+	"Jan": "Ian",
+	"Feb": "Feb",
+	"Mar": "Mar",
+	"Apr": "Apr",
+	"May": "Mai",
+	"Jun": "Iun",
+	"Jul": "Iul",
+	"Aug": "Aug",
+	"Sep": "Sept",
+	"Oct": "Oct",
+	"Nov": "Nov",
+	"Dec": "Dec",
 }

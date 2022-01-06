@@ -17,13 +17,13 @@ var longDayNamesPtPT = map[string]string{
 }
 
 var shortDayNamesPtPT = map[string]string{
-	"Sun": "dom",
-	"Mon": "seg",
-	"Tue": "ter",
-	"Wed": "qua",
-	"Thu": "qui",
-	"Fri": "sex",
-	"Sat": "sáb",
+	"Sun": "Dom",
+	"Mon": "Seg",
+	"Tue": "Ter",
+	"Wed": "Qua",
+	"Thu": "Qui",
+	"Fri": "Sex",
+	"Sat": "Sáb",
 }
 
 var longMonthNamesPtPT = map[string]string{

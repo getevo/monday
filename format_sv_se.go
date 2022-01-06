@@ -5,38 +5,38 @@ package monday
 // ============================================================
 
 var longDayNamesSvSE = map[string]string{
-	"Sunday":    "söndag",
-	"Monday":    "måndag",
-	"Tuesday":   "tisdag",
-	"Wednesday": "onsdag",
-	"Thursday":  "torsdag",
-	"Friday":    "fredag",
-	"Saturday":  "lördag",
+	"Sunday":    "Söndag",
+	"Monday":    "Måndag",
+	"Tuesday":   "Tisdag",
+	"Wednesday": "Onsdag",
+	"Thursday":  "Torsdag",
+	"Friday":    "Fredag",
+	"Saturday":  "Lördag",
 }
 
 var shortDayNamesSvSE = map[string]string{
-	"Sun": "sön",
-	"Mon": "mån",
-	"Tue": "tis",
-	"Wed": "ons",
-	"Thu": "tors",
-	"Fri": "fre",
-	"Sat": "lör",
+	"Sun": "Sön",
+	"Mon": "Mån",
+	"Tue": "Tis",
+	"Wed": "Ons",
+	"Thu": "Tors",
+	"Fri": "Fre",
+	"Sat": "Lör",
 }
 
 var longMonthNamesSvSE = map[string]string{
-	"January":   "januari",
-	"February":  "februari",
-	"March":     "mars",
-	"April":     "april",
-	"May":       "maj",
-	"June":      "juni",
-	"July":      "juli",
-	"August":    "augusti",
-	"September": "september",
-	"October":   "oktober",
-	"November":  "november",
-	"December":  "december",
+	"January":   "Januari",
+	"February":  "Februari",
+	"March":     "Mars",
+	"April":     "April",
+	"May":       "Maj",
+	"June":      "Juni",
+	"July":      "Juli",
+	"August":    "Augusti",
+	"September": "September",
+	"October":   "Oktober",
+	"November":  "November",
+	"December":  "December",
 }
 
 var shortMonthNamesSvSE = map[string]string{

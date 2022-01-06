@@ -5,38 +5,38 @@ package monday
 // ============================================================
 
 var longDayNamesCaES = map[string]string{
-	"Sunday":    "diumenge",
-	"Monday":    "dilluns",
-	"Tuesday":   "dimarts",
-	"Wednesday": "dimecres",
-	"Thursday":  "dijous",
-	"Friday":    "divendres",
-	"Saturday":  "dissabte",
+	"Sunday":    "Diumenge",
+	"Monday":    "Dilluns",
+	"Tuesday":   "Dimarts",
+	"Wednesday": "Dimecres",
+	"Thursday":  "Dijous",
+	"Friday":    "Divendres",
+	"Saturday":  "Dissabte",
 }
 
 var shortDayNamesCaES = map[string]string{
-	"Sun": "dg",
-	"Mon": "dl",
-	"Tue": "dt",
-	"Wed": "dc",
-	"Thu": "dj",
-	"Fri": "dv",
-	"Sat": "ds",
+	"Sun": "Dg",
+	"Mon": "Dl",
+	"Tue": "Dt",
+	"Wed": "Dc",
+	"Thu": "Dj",
+	"Fri": "Dv",
+	"Sat": "Ds",
 }
 
 var longMonthNamesCaES = map[string]string{
-	"January":   "gener",
-	"February":  "febrer",
-	"March":     "març",
-	"April":     "abril",
-	"May":       "maig",
-	"June":      "juny",
-	"July":      "juliol",
-	"August":    "agost",
-	"September": "setembre",
-	"October":   "octubre",
-	"November":  "novembre",
-	"December":  "desembre",
+	"January":   "Gener",
+	"February":  "Febrer",
+	"March":     "Març",
+	"April":     "Abril",
+	"May":       "Maig",
+	"June":      "Juny",
+	"July":      "Juliol",
+	"August":    "Agost",
+	"September": "Setembre",
+	"October":   "Octubre",
+	"November":  "Novembre",
+	"December":  "Desembre",
 }
 
 var shortMonthNamesCaES = map[string]string{

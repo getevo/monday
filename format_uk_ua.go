@@ -40,18 +40,18 @@ var longMonthNamesUkUA = map[string]string{
 }
 
 var longMonthNamesGenitiveUkUA = map[string]string{
-	"January":   "січня",
-	"February":  "лютого",
-	"March":     "березня",
-	"April":     "квітня",
-	"May":       "травня",
-	"June":      "червня",
-	"July":      "липня",
-	"August":    "серпня",
-	"September": "вересня",
-	"October":   "жовтня",
-	"November":  "листопада",
-	"December":  "грудня",
+	"January":   "Січень",
+	"February":  "Лютий",
+	"March":     "Березень",
+	"April":     "Квітень",
+	"May":       "Травень",
+	"June":      "Червень",
+	"July":      "Липень",
+	"August":    "Серпень",
+	"September": "Вересень",
+	"October":   "Жовтень",
+	"November":  "Листопад",
+	"December":  "Грудень",
 }
 
 var shortMonthNamesUkUA = map[string]string{
@@ -70,16 +70,16 @@ var shortMonthNamesUkUA = map[string]string{
 }
 
 var shortMonthNamesGenitiveUkUA = map[string]string{
-	"Jan": "січ",
-	"Feb": "лют",
-	"Mar": "бер",
-	"Apr": "кві",
-	"May": "тра",
-	"Jun": "чер",
-	"Jul": "лип",
-	"Aug": "сер",
-	"Sep": "вер",
-	"Oct": "жов",
-	"Nov": "лис",
-	"Dec": "гру",
+	"Jan": "Січ",
+	"Feb": "Лют",
+	"Mar": "Бер",
+	"Apr": "Кві",
+	"May": "Тра",
+	"Jun": "Чер",
+	"Jul": "Лип",
+	"Aug": "Сер",
+	"Sep": "Вер",
+	"Oct": "Жов",
+	"Nov": "Лис",
+	"Dec": "Гру",
 }
